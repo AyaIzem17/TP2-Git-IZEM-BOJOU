@@ -6,4 +6,3 @@ public class MessageB {
         System.out.println("Deuxième ligne de B");
     }
 }
- 
